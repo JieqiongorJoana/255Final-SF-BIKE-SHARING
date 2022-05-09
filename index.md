@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## SF-Bay-Area-Bike-Sharing-Data
 
-You can use the [editor on GitHub](https://github.com/JieqiongorJoana/255Final-SF-BIKE-SHARING/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/JieqiongorJoana/SF-Bay-Area-Bike-Sharing-Data/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Motivation
+Bike sharing programs usually have a problem of unbalanced stations where the number of trips from these stations is higher than the number of trips to these stations (or vice versa). 
+
+### Research Question
+What is the net change in the bike stock (bikes returned - bikes taken) at a specific station at a specific hour in San Francisco?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +34,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JieqiongorJoana/255Final-SF-BIKE-SHARING/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JieqiongorJoana/SF-Bay-Area-Bike-Sharing-Data/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
